@@ -1,0 +1,29 @@
+<svg width="1768" height="538" viewBox="0 0 1768 538" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1768" height="538" rx="28" fill="#1F1D23"/>
+<g clip-path="url(#clip0_2_1279)">
+<rect width="1768" height="538" rx="28" fill="#1F1D23"/>
+<ellipse opacity="0.6" cx="1060" cy="319.5" rx="365" ry="218.5" fill="#530991"/>
+<ellipse opacity="0.6" cx="299.5" cy="227.5" rx="299.5" ry="218.5" fill="#5900A0"/>
+<ellipse cx="1658.5" cy="357" rx="165.5" ry="130" fill="#920017"/>
+<path d="M933 0C854.023 63.7507 784.736 141.205 526 185.89C722.232 168.016 859.352 195.423 933 227V0Z" fill="#CE0050"/>
+<ellipse opacity="0.7" cx="1888" cy="254" rx="232" ry="233" fill="url(#paint0_linear_2_1279)"/>
+<g filter="url(#filter0_b_2_1279)">
+<rect width="1768" height="538" rx="28" fill="black" fill-opacity="0.41"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_2_1279" x="-235" y="-235" width="2238" height="1008" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="117.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2_1279"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2_1279" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_2_1279" x1="1656" y1="21" x2="2129.43" y2="30.7841" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7526F2"/>
+<stop offset="1" stop-color="#C826F2"/>
+</linearGradient>
+<clipPath id="clip0_2_1279">
+<rect width="1768" height="538" rx="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>

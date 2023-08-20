@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'daisyui/dist/full.css';
+
+@layer utilities {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+/* Hide the default scrollbar */
+body {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+
+
+
+.bg-nav-color {
+  background-color: #a3b18a;
+}
+
+.head{
+  color:#e9edc9
+}
+
+.bg-back-color {
+  background-color: #dad7cd;
+}
+
+.custom-border-color {
+    border-color: #588157;
+  }
+
+.bg-card-color {
+  background-color: #588157;
+}
+
+.text-head-color {
+  color: #3a5a40;
+}
+
+.bg-btn-color {
+  background-color: #344e41;
+}
+
+@layer base {
+  @font-face {
+    font-family: "BeVietnamPro";
+    src: url(./BeVietnamPro-Medium.ttf);
+  }
+  img {
+    width: 100%;
+  }
+  .section {
+    @apply container mx-auto py-[6rem]  px-6;
+  }
+}
